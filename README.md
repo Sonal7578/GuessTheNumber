@@ -1,4 +1,4 @@
-# Number Guessing Game README
+# Number Guessing Game 
 
 ## Overview
 This Python project is a simple number guessing game that includes two different game modes:
